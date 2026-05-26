@@ -62,18 +62,6 @@
 
 ---
 
-## 🔥 Popular repositories
-
-| Repository | Description |
-|---|---|
-| `CloudQKD-X` | Quantum cybersecurity prototype with IBM Quantum integration |
-| `BharatAI-Assist` | Voice-based AI assistant using Gemini API |
-| `DisasterAlertPlatform` | Disaster alert web platform |
-| `Subscription-Management-System` | TypeScript subscription management app |
-| `sql-injection-detection-prevention` | SQL injection detection and prevention demo |
-| `secure-key-manager` | Secure key management prototype |
-
----
 
 ## 📈 Contribution activity
 
