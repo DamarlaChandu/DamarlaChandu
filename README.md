@@ -1,51 +1,84 @@
-# Hi, I’m Chandu Damarla 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-1,110-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Commits-High%20Committer-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repositories-High%20Repo%20Creator-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stars-Middle%20Star-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-Junior%20Dev-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Followers-1%20Friend-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Issues-First%20Issue-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pull%20Request-First%20Pull-blueviolet?style=for-the-badge"/>
+</p>
 
-### Software Developer | AI & Cybersecurity Enthusiast
-
-- 💻 Building intelligent and secure web applications
-- 🔐 Focused on quantum cybersecurity, AI assistants, and secure coding
-- 🌱 Learning full-stack development with JavaScript / TypeScript
-- 📫 Email: `damarlachandu4@gmail.com`
-- 🔗 LinkedIn: [linkedin.com/in/chandu-damarla](https://www.linkedin.com/in/chandu-damarla/)
-
----
-
-## 🚀 About Me
-
-I work on modern web apps that combine security, AI, and practical utility. I enjoy solving problems, learning new tech, and sharing my projects in open source.
+<h1 align="center">Hi 👋, I'm Chandu Damarla</h1>
+<h3 align="center">Software Developer</h3>
 
 ---
 
-## 🔧 Skills
+### 🌱 I’m currently learning full stack development using technologies like React.js, Node.js, Express.js, and MongoDB, along with Data Structures and Algorithms (DSA) to improve my problem-solving skills and write more efficient code.
 
-- JavaScript / TypeScript
-- Node.js / Express
-- React / Frontend development
-- Python
-- Web security and SQL injection prevention
-- Quantum cybersecurity concepts
-- Git / GitHub
+### 📫 How to reach me
+- Email: `damarlachandu4@gmail.com`
+- LinkedIn: [linkedin.com/in/chandu-damarla](https://www.linkedin.com/in/chandu-damarla/)
+- GitHub: [github.com/DamarlaChandu](https://github.com/DamarlaChandu)
 
 ---
 
-## 📌 Featured Projects
+## 🔗 Connect with me
 
-- **CloudQKD-X** — Quantum cybersecurity prototype with IBM Quantum integration
-- **BharatAI-Assist** — Voice-based AI assistant with Gemini API and multilingual support
-- **DisasterAlertPlatform** — Disaster alert system for real-world incidents
-- **Subscription-Management-System** — TypeScript subscription management app
-- **sql-injection-detection-prevention** — Web security demo for SQL injection defense
-- **secure-key-manager** — Secure key management web project
+<p align="center">
+  <a href="https://github.com/DamarlaChandu">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chandu-damarla/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:damarlachandu4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-damarlachandu4@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DamarlaChandu&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DamarlaChandu&show_icons=true&theme=dark" alt="GitHub stats"/>
+</p>
 
 ---
 
-## 🌟 Highlights
+## 🔥 Popular repositories
 
-- Active on AI, security, and web development projects
-- Building real-world solutions with strong security principles
+| Repository | Description |
+|---|---|
+| `CloudQKD-X` | Quantum cybersecurity prototype with IBM Quantum integration |
+| `BharatAI-Assist` | Voice-based AI assistant using Gemini API |
+| `DisasterAlertPlatform` | Disaster alert web platform |
+| `Subscription-Management-System` | TypeScript subscription management app |
+| `sql-injection-detection-prevention` | SQL injection detection and prevention demo |
+| `secure-key-manager` | Secure key management prototype |
+
+---
+
+## 📈 Contribution activity
+
+![GitHub Contributions](https://ghchart.rshah.org/DamarlaChandu)
+
+---
+
+> This layout is modeled after your friend’s GitHub profile style, with the same sections and clean structure. Add or replace any project names so it matches your real work exactly.
