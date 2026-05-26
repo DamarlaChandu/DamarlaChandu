@@ -14,7 +14,7 @@
 
 ---
 
-### 🌱 I’m currently learning full stack development using technologies like React.js, Node.js, Express.js, and MongoDB, along with Data Structures and Algorithms (DSA) to improve my problem-solving skills and write more efficient code.
+### 🌱 I’m currently learning cybersecurity and secure web development, with a focus on React.js, Node.js, Express.js, MongoDB, and Data Structures and Algorithms (DSA) to improve my problem-solving skills and write more efficient, secure code.
 
 ### 📫 How to reach me
 - Email: `damarlachandu4@gmail.com`
@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamarlaChandu&show_icons=true&theme=dark" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DamarlaChandu&theme=dark" alt="GitHub stats"/>
 </p>
 
 ---
